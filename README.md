@@ -1,5 +1,5 @@
 # SOC Final Project UART Version#2
-
+## Run UART seperately with best performance (latency and throughput)
 ### Simulation
 ```sh
 cd ~/SOC_Final-Project-UART_v2/testbench/uart
